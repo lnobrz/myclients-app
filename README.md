@@ -16,7 +16,7 @@
   otherwise, you'll not get authenticated.
 </p>
 <h2>Usage</h2>
-<h2>Starting Client Locally</h2>
+<h3>Starting Client Locally</h3>
 <p>
   After clonning this repository, you'll need to run "npm install" on the root
   directory of this project, so all dependencies can be installed properlly.
