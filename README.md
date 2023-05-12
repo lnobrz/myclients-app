@@ -10,6 +10,7 @@
   To run this application locally, you'll need to have NodeJS installed on your
   machine. Full NodeJS documentation <a href="https://nodejs.org/en">here</a>.
 </p>
+<p>Also, you'll to run our server locally. Without you, you'll not be able to do much with my client-side-app. Reach to My Client Server repository <a href="https://github.com/lnobrz/myclients-server">here</a>.</p>
 <p>
   Also, this app was made with the purpose of only working with my credentials,
   so, if you want to access this app, you'll need to get my My Clients account,
