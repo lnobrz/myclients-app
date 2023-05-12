@@ -25,7 +25,7 @@
   To run the application locally, run "npm run dev" on the root folder of this
   directory. The default port for this application is 5173.
 </p>
-<h2>Routes</h2>
+<h2>Pages</h2>
 <h3>Auth Page</h3>
 <p>
   This is the first page you'll see when getting in the application. The
