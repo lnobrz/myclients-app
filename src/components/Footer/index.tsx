@@ -8,11 +8,11 @@ const Footer = () => {
       <Logo variation="light" className="footerLogo" />
       <FooterInfo
         infoTitle="Server Source Code"
-        info="https://github.com/lnobrz/myclients-backend"
+        info="https://github.com/lnobrz/myclients-server"
       />
       <FooterInfo
         infoTitle="Client Source Code"
-        info="https://github.com/lnobrz/myclients-frontend"
+        info="https://github.com/lnobrz/myclients-app"
       />
     </FooterContainer>
   );
