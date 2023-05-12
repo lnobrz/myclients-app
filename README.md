@@ -77,3 +77,8 @@
   <li>Material UI</li>
   <li>React Router</li>
 </ul>
+<p>
+  Faced any problems? Don't hesitate to contact me on
+  <a href="mailto:lucasnobre037@gmail.com">lucasnobre037@gmail.com</a> or
+  <a href="mailto:lucasnobre37@outlook.com">lucasnobre37@outlook.com</a>.
+</p>
