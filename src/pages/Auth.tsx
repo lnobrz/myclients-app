@@ -49,7 +49,7 @@ const Auth = () => {
           <LinkButton
             role="primary"
             className="authPageButton"
-            url="http://localhost:8080/"
+            url="https://myclients-server.onrender.com"
             text="Authenticate"
           />
         </MainContent>
