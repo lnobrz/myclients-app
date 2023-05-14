@@ -29,7 +29,7 @@
           <p>
             If you're going to run our server locally, you'll need to change the
             url prop passed on the LinkButton of the Auth Page. Just go to
-            src/pages/Auth.tsx and replace the LinkButton component url to "localhost:8080".
+            src/pages/Auth.tsx and replace the LinkButton component url to "http://localhost:8080".
           </p>
         </li>
         <li>
