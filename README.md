@@ -1,9 +1,9 @@
 <main>
   <h1>My Clients App</h1>
   <section>
-    <h2>What it is?</h2>
+    <h2>Introduction</h2>
     <p>
-      An application that allows the user to authenticate in a My Clients
+      My Clients App is an application that allows the user to authenticate in a My Clients
       account and see a list of the users and its details on it.
     </p>
   </section>
@@ -29,8 +29,7 @@
           <p>
             If you're going to run our server locally, you'll need to change the
             url prop passed on the LinkButton of the Auth Page. Just go to
-            src/pages/Auth.tsx and replace the url to "localhost:8080" or the
-            port you've set to your local server.
+            src/pages/Auth.tsx and replace the url to "localhost:8080".
           </p>
         </li>
         <li>
