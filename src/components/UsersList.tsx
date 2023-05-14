@@ -99,7 +99,7 @@ const UsersList = () => {
   }, [authData]);
 
   return (
-    <>
+    <section>
       {authData &&
         authData.accessToken &&
         authData.locationId !== "undefined" &&
@@ -141,7 +141,7 @@ const UsersList = () => {
           </Box>
         )}
       {!authData && <UnauthenticatedPage />}
-    </>
+    </section>
   );
 };
 
